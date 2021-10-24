@@ -30,8 +30,7 @@ P \frac{m}{\rho} &= nRT\\
 \end{align*}
 avec M la masse molaire du gaz parfait et R la constante des gaz parfaits.
 
-````{admonition} Fondamental : Champ de pression pour un gaz parfait sous l'hypothèse isotherme.
-:class: attention
+````{important} __Fondamental : Champ de pression pour un gaz parfait sous l'hypothèse isotherme.__
 
 Une atmosphère de gaz parfait à température uniforme dans un champ de pesanteur uniforme possède pour champ de pression P(z) (où z est l'__altitude__):
 
@@ -111,8 +110,7 @@ L'argument de l'exponentielle fait apparaître un rapport entre deux termes éne
 Suivant la température, les particules vont occuper une gamme d'énergie plus ou moins grande. Pour un état d'énergie $E_p$, si $k_B T \gg E_p$, l'état énergétique sera densément peuplé et si $k_B T \ll E_p$ l'état énergétique sera faiblement peuplé.
 
 
-````{admonition} Fondamental : Généralisation (Admise): Facteur de Boltzmann
-:class: attention
+````{important} __Fondamental : Généralisation (Admise): Facteur de Boltzmann__
 
 D'une manière plus générale, si un système de $n_0$ particules par unité de volume est __en équilibre à une température T__, le nombre de particule par unité de volume $n(E_p)$ ayant l'énergie potentielle $E_p$ est:
 

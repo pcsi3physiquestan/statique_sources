@@ -17,8 +17,7 @@ kernelspec:
 
 ## Particule de fluide
 
-````{admonition} Définition : Particule de fluide
-:class: tip
+````{important} __Définition : Particule de fluide__
 
 Dans un fluide, on peut isoler mentalement un volume infinitésimal $d\tau_Q$ autour d'un point Q. On appelle ce petit élément __particule de fluide__.
 
@@ -51,8 +50,7 @@ Deux forces s'appliquent sur la particule de fluide:
 
 ## Equivalent volumique des forces de pression
 
-````{admonition} Fondamental : Equivalent volumique des forces de pression
-:class: attention
+````{important} __Fondamental : Equivalent volumique des forces de pression__
 
 Pour une particule de fluide en un point M dans un fluide où le champ de pression est P, la résultante des forces de pression s'appliquant sur la particule de fluide peut se réécrire sous la forme:
 
@@ -102,8 +100,7 @@ En effet, on observer que la résultante des forces est opposée au gradient des
 
 ## Equation fondamentale de la statique des fluides
 
-````{admonition} Fondamental : Equation fondamentale de la statique des fluides
-:class: attention
+````{important} __Fondamental : Equation fondamentale de la statique des fluides__
 
 Dans un fluide __au repos__ soumis à la seule action extérieure du champ de pesanteur $\overrightarrow{g}$, le champ de pression P est donné par l'équation:
 
@@ -133,8 +130,9 @@ P(z_2) - P(z_1) &= \frac{\overrightarrow{P_{colonne}}}{S} \cdot \overrightarrow{
 où $\overrightarrow{P_{colonne}}$ correspond au poids de la colonne comprise entre$z_1$ et $z_2$ dans un cylindre verticale de section S. La pression en un point correspond donc au poids (surfacique) de la colonne de fluide situé au dessus du point considéré.
 ````
 
-````{admonition} Attention : Besoin d'une équation supplémentaire
-:class: note
+````{attention}
+__Besoin d'une équation supplémentaire__
+
 
 L'équation fondamental de la statique des fluides relie trois grandeurs: le champ de pesanteur (dont il faut connaître l'expression - dans le cadre du cours, il sera supposé uniforme), la masse volumique et la pression. Mais __on ne peut intégrer directement cette équation__ car on a priori aucune information sur la dépendance de la masse volumique vis-à-vis des coordonnées ou de la pression.
 

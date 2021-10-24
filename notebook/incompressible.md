@@ -19,8 +19,7 @@ _Nous allons commencer par traiter un premier exemple de fluide: les fluides inc
 
 ## Equation barométrique
 
-````{admonition} Fondamental : Equation barométrique - Champ de pression pour un fluide incompressible
-:class: attention
+````{important} __Fondamental : Equation barométrique - Champ de pression pour un fluide incompressible__
 
 Dans un fluide incompressible de masse volumique $\rho_0$ dans un champ de pesanteur d'intensité $g$, le champ de pression ne dépend que de la profondeur. La variation de pression $\Delta P = P(h_2) - P(h_1)$ entre les __profondeurs__ $h_2$ et $h_1$ s'écrit:
 
@@ -29,8 +28,7 @@ Dans un fluide incompressible de masse volumique $\rho_0$ dans un champ de pesan
 \end{equation}
 ````
 
-````{admonition} Attention : 
-:class: note
+````{attention}
 
 Il s'agit de profondeur soit la coordonnée verticale pour un axe pris vers le __bas__.
 

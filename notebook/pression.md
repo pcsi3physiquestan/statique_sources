@@ -24,8 +24,7 @@ Dans le cadre de l'étude de l'action d'un fluide, on va séparer l'étude de l'
 
 Le but de cette séquence est d'étudier les forces de pression dans le cadre de la __statique des fluides__, c'est-à-dire que l'on va supposer que le fluide est __au repos__.
 
-````{admonition} Définition : Pression
-:class: tip
+````{important} __Définition : Pression__
 
 A l'échelle macroscopique (notre échelle), on définit la __pression__ comme une grandeur scalaire positive correspondant à l'intensité de la force normale exercée __par unité de surface__.
 
@@ -44,8 +43,9 @@ où le vecteur $\overrightarrow{dS}$ est orienté vers l'extérieur du système 
 
 ````
 
-````{admonition} Attention : Signe de la relation force-pression
-:class: note
+````{attention}
+__Signe de la relation force-pression__
+
 
 Attention, la relation précédente est donnée en orientant le vecteur surface vers l'extérieur du système qui exerce la force. Il arrive que pour des raisons de commodité ou de convention, le vecteur surface soit orienté dans l'autre sens. Il faut alors faire attention au signe dans la relation force-pression (il apparaît un signe "-").
 

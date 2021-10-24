@@ -17,8 +17,7 @@ kernelspec:
 
 ## Vecteur surface
 
-````{admonition} Définition : Vecteur surface élémentaire
-:class: tip
+````{important} __Définition : Vecteur surface élémentaire__
 
 Soit une surface infinitésimale de surface dS, on peut orienté la surface, c'està-dire choisir un sens dans lequel la traversée de la surface est positif. On définit alors le vecteur surface $\overrightarrow{dS}$ comme le vecteur de norme $dS$ orienté perpencidulairement à la surface et dirigé dans le sens d'orientation choisi de la surface.
 
@@ -42,8 +41,7 @@ __Notation infinitésimale__
 Normalement, il faudrait noter $d^2S$ car il s'agit d'un double infinitésimale (produit de deux infinitésimaux comme on peut le voir sur l'exemple précédent). Par souci de simpification, on notera simplement dS. On retiendra que le fait que ce soit un double infinitésimal signifie que des surfaces infinitésimales, il faudra les sommer sur deux coordonnées: il s'agira d'une __intégrale double__. La méthode permettant de calculer une telle intégrale sera exposée plus tard.
 
 
-````{admonition} Définition : Vecteur surface
-:class: tip
+````{important} __Définition : Vecteur surface__
 
 Si l'on considère une surface d'extension finie, on peut la découper en une multitude de surface infinitésimale $\overrightarrow{dS}$. Le vecteur surface $\overrightarrow{S}$ est alors la somme des vecteurs surfaces infinitésimaux:
 
@@ -56,8 +54,7 @@ Comme dit précédemment, il s'agit d'une intégrale double sur une surface. Nou
 
 ## Vecteur surface: Orientation
 
-````{admonition} Définition : Surface fermée et non fermée.
-:class: tip
+````{important} __Définition : Surface fermée et non fermée.__
 
 Une surface fermée est une surface qui divise l'espace en deux parties et où il est impossible de passer d'une partie à l'autre sans traverser la surface. On définit alors un intérieur et un extérieur.
 

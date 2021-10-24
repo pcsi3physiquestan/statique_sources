@@ -17,7 +17,7 @@ kernelspec:
 # Statique des fluides
 
 ````{admonition} Objectifs
-:class: hint
+:class: tip
 
 * Distinguer le statut des forces de pression et des forces de pesanteur en terme de force volumique ou surfacique
 * Connaître les ordres de grandeurs des champs de pression dans le cas de l'océan et de l'atmosphère

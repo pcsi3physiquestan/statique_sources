@@ -41,8 +41,7 @@ Avant d'apprendre à calculer une telle intégrale, nous allons voir un cas part
 
 ## Théorème d'Archimède
 
-````{admonition} Fondamental : Théorème d'Archimède
-:class: attention
+````{important} __Fondamental : Théorème d'Archimède__
 
 Tout corps entièrement immergé au repos subit de la part du fluide une force opposée à celle du poids du volume de fluide déplacé. On appelle cette force la poussée d'Archimède. D'une manière plus générale, elle est définie comme la résultante des forces de pression du fluide:
 
@@ -176,8 +175,9 @@ Calculer la résultante des forces nécessite de choisir un système de coordonn
 1. Réécrire alors l'intégrale et en déduire les variables d'intégration. On déterminer alors les bornes d'intégration de chaque intégrale en fonction de la surface d'intégration.
 1. Dans le cadre du programme, l'intégrale de surface à calculer est une intégrale à variable séparable. On calcule donc séparément deux intégrales qu'on multiplie.
 
-````{admonition} Attention : Bases locales
-:class: note
+````{attention}
+__Bases locales__
+
 
 Lorsqu'on utilise des coordonnées cylidnriques ou sphériques, il arrive fréquemment que le vecteur unitaire portant $\overrightarrow{dS}$ __varie quand la variable d'intégration varie__. Il est donc important de projeter de tels vecteurs dans une base globale (cartésienne). Nous verrons cela sur l'exemple du barrage.
 
