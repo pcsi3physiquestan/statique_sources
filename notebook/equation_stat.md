@@ -24,7 +24,7 @@ Dans un fluide, on peut isoler mentalement un volume infinitésimal $d\tau_Q$ au
 ````
 
 __Caractère infinitésimal__  
-Le caractère infinitésimal permet d'appliquer les méthodes du calcul différentiel. Ainsi les grandeurs internes sont considérées comme homogène sur le petit volume: la mases volumique, le champ de pesanteur... 
+Le caractère infinitésimal permet d'appliquer les méthodes du calcul différentiel. Ainsi les grandeurs internes sont considérées comme homogène sur le petit volume: la masse volumique, le champ de pesanteur... 
 
 Attention, ces grandeurs peuvent par contre varier d'une particule de fluide à l'autre.
 
