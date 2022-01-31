@@ -57,7 +57,7 @@ Pour une particule de fluide en un point M dans un fluide où le champ de pressi
 \begin{equation}
 \overrightarrow{dF_{pression}} = - \overrightarrow{grad}P d\tau_Q
 \end{equation}
-On obtient ainsi une expression proportionnelle au volume donc __comme si} l'action de la pression s'exerçait en volume. D'où le nom \textbf{d'équivalent volumique des forces de pression__.
+On obtient ainsi une expression proportionnelle au volume donc __comme si__ l'action de la pression s'exerçait en volume. D'où le nom __d'équivalent volumique des forces de pression__.
 ````
 
 __Démonstration__  
@@ -95,7 +95,7 @@ Remarquons que le raisonnement précédent s'applique aussi aux actions sur les 
 __Interprétation__  
 L'équivalent volumique de la résultante des forces de pression est fondamental pour la mise en équation. Mais il permet aussi de mieux comprendre l'influence de va avoir la pression d'un fluide sur un système (que ce soit le fluide lui-même ou un corps étranger).
 
-En effet, on observer que la résultante des forces est opposée au gradient des forces de pression. Ainsi, la force s'effectue en direction des dépressions (zones de pression plus faibles) locales. Nous énoncerons par la suite le théorème d'Archimède mais on peut déjà remarquer qu'il en est la conséquence. Sous l'effet de la pesanteur la pression a tendance a diminuer avec l'altitude (ce sera prouvé par la suite) et donc l'action des forces de pression d'un fluide où le solide est immergé est vers le "haut".
+En effet, on observe que la résultante des forces est opposée au gradient des forces de pression. Ainsi, la force s'effectue en direction des dépressions (zones de pression plus faibles) locales. Nous énoncerons par la suite le théorème d'Archimède mais on peut déjà remarquer qu'il en est la conséquence. Sous l'effet de la pesanteur la pression a tendance a diminuer avec l'altitude (ce sera prouvé par la suite) et donc l'action des forces de pression d'un fluide où le solide est immergé est vers le "haut".
 ````
 
 ## Equation fondamentale de la statique des fluides

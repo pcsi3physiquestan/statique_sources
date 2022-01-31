@@ -15,7 +15,7 @@ kernelspec:
 ---
 # Cas des fluides incompressibles
 
-_Nous allons commencer par traiter un premier exemple de fluide: les fluides incompressibles (ou peu compressibles). Un fluide peu compressible est un fluide pour lequel la masse volumique varie peu lorsque la pression varie. On fera ici l'hypothèse qu'il es incompressible, c'est-à-dire que sa masse volumique est la même quelques soient les conditions._
+_Nous allons commencer par traiter un premier exemple de fluide: les fluides incompressibles (ou peu compressibles). Un fluide peu compressible est un fluide pour lequel la masse volumique varie peu lorsque la pression varie. On fera ici l'hypothèse qu'il est incompressible, c'est-à-dire que sa masse volumique est la même quelques soient les conditions._
 
 ## Equation barométrique
 
