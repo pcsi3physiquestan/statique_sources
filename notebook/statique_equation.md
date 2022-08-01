@@ -44,9 +44,9 @@ Deux forces s'appliquent sur la particule de fluide:
 
 Pour une particule de fluide en un point M dans un fluide où le champ de pression est P, la résultante des forces de pression s'appliquant sur la particule de fluide peut se réécrire sous la forme:
 
-\begin{equation}
+$$
 \overrightarrow{d^3 F_{pression}} = - \overrightarrow{grad}P d^3 \tau_Q
-\end{equation}
+$$
 On obtient ainsi une expression proportionnelle au volume donc __comme si__ l'action de la pression s'exerçait en volume. D'où le nom __d'équivalent volumique des forces de pression__.
 ````
 
@@ -94,9 +94,9 @@ En effet, on observe que la résultante des forces est opposée au gradient des 
 
 Dans un fluide __au repos__ soumis à la seule action extérieure du champ de pesanteur $\overrightarrow{g}$, le champ de pression P est donné par l'équation:
 
-\begin{equation}
+$$
 \rho \overrightarrow{g} - \overrightarrow{grad}P = 0
-\end{equation}
+$$
 ````
 
 ````{admonition} Démonstration

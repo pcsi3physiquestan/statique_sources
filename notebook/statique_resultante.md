@@ -18,14 +18,14 @@ kernelspec:
 ````{topic} Rappel : Relation pression force
 Pour un corps subissant l'action d'un fluide dont le champ de pression est P, si on note $\Sigma$ la surface de contact entre le fluide et le corps étudié, la résulante des forces de pression du fluide sur le corps s'écrit:
 
-\begin{equation}
+$$
 \iint_{M \in \Sigma} P \overrightarrow{d^2 S}
-\end{equation}
+$$
 Si la surface de contact est une surface fermée, on note l'intégrale avec un cercle. On a aussi orienté le vecteur surface dans les conventions précisées précédemment (ce devrait être une intégrale double):
 
-\begin{equation}
+$$
 \oint_{M \in \Sigma}  - P \overrightarrow{d^2 S_{ext}}
-\end{equation}
+$$
 
 
 Pour connaître la résultante des forces, il faut donc:
@@ -43,9 +43,9 @@ Il arrive qu'on utilise la poussée d'Archimède alors que si le corps se dépla
 
 Tout corps entièrement immergé au repos subit de la part du fluide une force opposée à celle du poids du volume de fluide déplacé. On appelle cette force la poussée d'Archimède. D'une manière plus générale, elle est définie comme la résultante des forces de pression du fluide (ce devrait être une intégrale double):
 
-\begin{equation}
+$$
 \overrightarrow{\Pi_A} = \oint_{\Sigma}-P(M) \overrightarrow{d^2 S(M)} = - m _{\textrm{fluide déplacé}} \overrightarrow{g}
-\end{equation}
+$$
 
 ````
 
@@ -88,9 +88,9 @@ Sinon, il ne s'applique pas. Par exemple un corps posé au fond de l'eau ou un s
 
 Si le théorème d'Archimède ne s'applique pas, la résultat des forces de pression ne peut se calculer qu'au moyen de l'intégrale:
 
-\begin{equation}
+$$
 \iint_{M \in \Sigma} P \overrightarrow{d^2 S}
-\end{equation}
+$$
 
 ````{margin} Bases locales
 

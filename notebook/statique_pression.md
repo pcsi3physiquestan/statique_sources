@@ -34,9 +34,9 @@ A l'échelle macroscopique (notre échelle), on définit la __pression__ comme u
 
 Pour une surface infinitésimale $d^2S$, on relie la force de pression à la pression:
 
-\begin{equation}
+$$
 \overrightarrow{d^2F} = P \overrightarrow{d^2S}
-\end{equation}
+$$
 ```{figure} ./images/thermo_pression_def.jpg
 :name: fig_264
 :align: center
@@ -47,9 +47,9 @@ où le vecteur $\overrightarrow{d^2S}$ est orienté vers l'extérieur du systèm
 __Relation force pression. Cas fini.__  
 Dans le cas d'une action globale d'un fluide sur le système mécanique étudié, la force de pression résultante s'écrit comme la somme de la force ponctuelle sur toute la surface de contact:
 
-\begin{equation}
+$$
 \overrightarrow{F} = \iint_{M\in \Sigma_{contact}} P(M) \overrightarrow{d^2S}(M)
-\end{equation}
+$$
 
 ````{topic} Contexte
 Dans ce chapitre, nous allons étudier deux aspects importants:

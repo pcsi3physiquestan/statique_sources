@@ -28,9 +28,9 @@ Il s'agit de profondeur soit la coordonnée verticale pour un axe pris vers le _
 
 Dans un fluide incompressible de masse volumique $\rho_0$ dans un champ de pesanteur d'intensité $g$, le champ de pression ne dépend que de la profondeur. La variation de pression $\Delta P = P(h_2) - P(h_1)$ entre les __profondeurs__ $h_2$ et $h_1$ s'écrit:
 
-\begin{equation}
+$$
 \Delta P = P(h_2) - P(h_1) = \rho_0 g (h_2 - h_1)
-\end{equation}
+$$
 ````
 
 ````{admonition} Démonstration

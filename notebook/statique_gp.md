@@ -85,9 +85,9 @@ Comme on l'a dit précédemment, cette loi statistique montre que, comme le pré
 
 D'une manière plus générale, si un système de $n_0$ particules par unité de volume est __en équilibre à une température T__, le nombre de particule par unité de volume $n(E_p)$ ayant l'énergie potentielle $E_p$ est:
 
-\begin{equation}
+$$
 n(E_p) = A \exp(-\frac{E_p}{k_B T})
-\end{equation}
+$$
 Le terme exponentielle porte le nom de __facteur de Boltzmann__. La constante A est une constante de normalisation telle que la somme du nombre de particules dans chaque état donne $n_0$.
 ````
 

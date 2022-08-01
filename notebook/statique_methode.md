@@ -21,9 +21,9 @@ kernelspec:
 
 Dans le cas de l'eau, on peut donner le coefficient de compressibilité isotherme:
 
-\begin{equation}
+$$
 \chi_{T} = \frac{1}{\rho}\left(\frac{\partial \rho}{\partial P}\right)_{T} = 5 \times 10^{-10} \rm{Pa^{-1}}
-\end{equation}
+$$
 où l'indice T signifie que la température est maintenue constante.
 
 1. Rappeler la valeur numérique de la masse volumique de l'eau
@@ -158,9 +158,9 @@ On s'intéresse à un ballon de volume V constant gonflé avec un gaz plus lége
 
 1. On est dans le cas où l'on assimile le champ de l'air à celui qu'il aurait au repos ce qui permet d'appliquer le théorème d'Archimède.
 
-\begin{equation}
+$$
 m \ddot z = \left(\rho_{air} - \rho\right) g V
-\end{equation}
+$$
 2. Il faut évidemment diminuer la masse volumique du ballon pour qu'il monte. En considérant le volume du ballon comme fixe (le ballon est tendu) et sa pression comme fixe (elle es imposée par la pression extérieure, la loi des gaz parfait montre qu'une diminution de la masse est associée à une augmentation de température.
 
 3. Cette fois-ci, la diminution de matière entraîne une diminution du volume (T et P constants) donc une augmentation de la masse volumique (à cause de la masse de la nacelle), ce qui permet de faire redescendre le ballon.

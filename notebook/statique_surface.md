@@ -24,9 +24,9 @@ Le $^2$ signifie qu'il s'agit d'un produit de deux infinitésimaux. S'il permet 
 
 Si l'on considère une surface d'extension finie, on peut la découper en une multitude de surface infinitésimale $\overrightarrow{d^2S}$. Le vecteur surface $\overrightarrow{S}$ est alors la somme des vecteurs surfaces infinitésimaux:
 
-\begin{equation}
+$$
 \overrightarrow{S} = \iint_{M \in S} \overrightarrow{d^2S}
-\end{equation}
+$$
 Comme dit précédemment, il s'agit d'une intégrale double sur une surface. Nous verrons plus tard comment la calculer.
 ````
 ````{important} __Vecteur surface élémentaire__
