@@ -16,7 +16,7 @@ kernelspec:
 
 # Statique des fluides
 
-````{admonition} Objectifs
+````{admonition} Compétences
 :class: tip
 
 * Distinguer le statut des forces de pression et des forces de pesanteur en terme de force volumique ou surfacique

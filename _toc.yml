@@ -2,11 +2,16 @@ format: jb-article
 root: statique.md
 
 sections:
-- file: notebook/surface
-- file: notebook/pression
-- file: notebook/equation_stat
-- file: notebook/incompressible
-- file: notebook/stat_gp
-- file: notebook/stat_resultante
-- file: notebook/stat_ex_app
-- file: notebook/stat_td
+- file: notebook/statique_contxt
+  sections:
+  - file: notebook/statique_surface
+  - file: notebook/statique_pression
+  - file: notebook/statique_equation
+  - file: notebook/statique_incompressible
+  - file: notebook/statique_gp
+  - file: notebook/statique_resultante
+- file: notebook/statique_ex
+  sections:
+  - file: notebook/statique_methode
+  - file: notebook/statique_ex_app
+  - file: notebook/statique_td
