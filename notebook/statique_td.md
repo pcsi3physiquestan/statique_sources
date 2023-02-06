@@ -37,6 +37,9 @@ On donne: $\rho_0 = 0.998 \rm{g.cm^{-3}}; \rho = 1.024 \rm{g.cm^{-3}}; g = 9.81 
 
 ````
 
+## Bateau
+On considère un bateau modélisé pour simplifié par un cylindr de hauteur H et de rayon R, l'axe du cylindre étant horizontal. Le bateau et sa cargaison possèdre une masse $m$ et il flotte à la surface de l'eau. Déterminer de deux manières différentes la hauteur $z_0$ du bateau qui reste immergé. On négligera l'action de l'atmosphère.
+
 ## Bille au fond d'un évier
 
 ````{admonition} Exercice 
