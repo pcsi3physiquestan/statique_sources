@@ -36,13 +36,19 @@ Un manomètre différentiel et constitué de 2 récipients cylindriques de secti
 On donne: $\rho_0 = 0.998 \rm{g.cm^{-3}}; \rho = 1.024 \rm{g.cm^{-3}}; g = 9.81 \rm{m.s^{-2}}; S_1 = S_2 = 100 s$
 
 ````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Liquide peu compressible._
 
 ## Bateau
 
 ````{admonition} Exercice
 :class: attention
-On considère un bateau modélisé pour simplifié par un cylindr de hauteur H et de rayon R, l'axe du cylindre étant horizontal. Le bateau et sa cargaison possèdre une masse $m$ et il flotte à la surface de l'eau. Déterminer de deux manières différentes la hauteur $z_0$ du bateau qui reste immergé. On négligera l'action de l'atmosphère.
+On considère un bateau modélisé pour simplifié par un cylindre de hauteur H et de rayon R, l'axe du cylindre étant horizontal. Le bateau et sa cargaison possèdre une masse $m$ et il flotte à la surface de l'eau. Déterminer de deux manières différentes une relation que doit vérifier la hauteur $z_0$ du bateau qui reste immergé _(Facultatif : on pourra essayer de la résoudre numériquement par dichotomie en choisissant des ordre de grandeur pour un bateau)._
 ````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Résultante des actions de pression._
+* _$\Longrightarrow$ Théorème  d'Archimède._
+* _$\Longrightarrow$ Liquide peu compressible._
 
 ## Bille au fond d'un évier
 
@@ -65,3 +71,6 @@ Une sphère de bois de masse volumique $\rho$ et de rayon R, de masse uniformém
 Données: $\rho = 850 \rm{km.m^{-3}}; \rho_e = 1000 \rm{kg.m^{-3}}; H=0.7 \rm{m}; R =0.2 \rm{m}; r = 0.1 \rm{m}; g = 9.8 \rm{m.s^{-2}}$
 
 ````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Résultante des actions de pression._
+* _$\Longrightarrow$ Liquide peu compressible._

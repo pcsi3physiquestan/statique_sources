@@ -27,6 +27,8 @@ On considère un verrin constitué d'un réservoir de section $S_1$ relié par l
 
 
 ````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Liquide peu compressible._
 
 ## Atmophère non isotherme
 
@@ -36,6 +38,9 @@ On considère un verrin constitué d'un réservoir de section $S_1$ relié par l
 On assimile l'atmosphère à un gaz parfait et on suppose que le profil de température est $T(z) = T_0 (1 - \alpha z)$ avec z l'altitude ($z=0$ au sol). Déterminer le champ de pression en supposant l'atmosphère au repos et le champ de pesanteur uniforme.
 
 ````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Equation fondamentale de la statique des fluides._
+* _$\Longrightarrow$ Gaz parfait._
 
 ## Glaçon
 
@@ -45,4 +50,6 @@ On assimile l'atmosphère à un gaz parfait et on suppose que le profil de temp�
 Un glaçon flotte dans un verre d'eau. De quelle hauteur l'eau a monté quand le glaçon a complètement fondu.
 
 ````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Théorème d'Archimède._
 
