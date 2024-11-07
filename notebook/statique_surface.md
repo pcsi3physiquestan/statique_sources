@@ -31,6 +31,12 @@ Comme dit précédemment, il s'agit d'une intégrale double sur une surface. Nou
 ````
 ````{important} __Vecteur surface élémentaire__
 
+```{figure} ./images/qr_code/qr_statique_surface.png
+:name: qr_statique_surface
+:width: 150px
+:align: right
+:target: statique_surface.html#vecteur-surface
+```
 Soit une surface infinitésimale de surface $d^2S$, on peut orienté la surface, c'està-dire choisir un sens dans lequel la traversée de la surface est positif. On définit alors le vecteur surface $\overrightarrow{d^2S}$ comme le vecteur de norme $d^2S$ orienté perpencidulairement à la surface et dirigé dans le sens d'orientation choisi de la surface.
 
 ```{figure} ./images/mathematiques_surface_contour.jpg

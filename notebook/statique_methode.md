@@ -14,6 +14,14 @@ kernelspec:
   name: python3
 ---
 # Méthodes
+
+```{figure} ./images/qr_code/qr_statique_methodes.png
+:name: qr_statique_methodes
+:width: 150px
+:align: center
+:target: statique_methode.html
+```
+
 ## Fluides incompressibles
 
 ````{admonition} Validité du modèle incompressible 

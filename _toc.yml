@@ -15,4 +15,4 @@ sections:
   - file: notebook/statique_methode
   - file: notebook/statique_ex_app
   - file: notebook/statique_td
-  # - file: notebook/statique_num
+  - file: notebook/statique_num

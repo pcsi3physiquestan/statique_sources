@@ -41,6 +41,13 @@ Il arrive qu'on utilise la poussée d'Archimède alors que si le corps se dépla
 ````
 ````{important} __Théorème d'Archimède__
 
+```{figure} ./images/qr_code/qr_statique_archimede.png
+:name: qr_statique_archimede
+:width: 150px
+:align: right
+:target: statique_resultante.html#theoreme-d-archimede
+```
+
 Tout corps entièrement immergé au repos subit de la part du fluide une force opposée à celle du poids du volume de fluide déplacé. On appelle cette force la poussée d'Archimède. D'une manière plus générale, elle est définie comme la résultante des forces de pression du fluide (ce devrait être une intégrale double):
 
 $$
