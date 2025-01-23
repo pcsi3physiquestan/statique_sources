@@ -25,7 +25,7 @@ On considère un verrin constitué d'un réservoir de section $S_1$ relié par l
 1. Au dessus de chaque plateau on trouve la même atmosphère. Quelle est la différence de hauteur entre les deux plateaux à l'équilibre?
 1. Les plateaux sont à l'équilibre et on pose sur le plateau $S_1$ une masse M. Quelle force F faut-il appliquer sur le plateau $S_2$ pour maintenir l'ensemble à l'équilibre. Commenter.
 
-
+_Attention à être rigoureux dans le bilan des actions mécaniques._
 ````
 _Point utile pour cet exercice_
 * _$\Longrightarrow$ Liquide peu compressible._

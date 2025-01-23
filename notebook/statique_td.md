@@ -43,14 +43,23 @@ _Point utile pour cet exercice_
 
 ````{admonition} Exercice
 :class: attention
-On considère un bateau modélisé pour simplifié par un cylindre de hauteur H et de rayon R, l'axe du cylindre étant horizontal. Le bateau et sa cargaison possèdre une masse $m$ et il flotte à la surface de l'eau. Déterminer de deux manières différentes une relation que doit vérifier la hauteur $z_0$ du bateau qui reste immergé _(Facultatif : on pourra essayer de la résoudre numériquement par dichotomie en choisissant des ordre de grandeur pour un bateau)._
+On considère un bateau modélisé pour simplifié par un cylindre de hauteur H et de rayon R, l'axe du cylindre étant horizontal. Le bateau et sa cargaison possèdre une masse $m$ et il flotte à la surface de l'eau. 
+1. Déterminer de deux manières différentes une relation que doit vérifier la hauteur $z_0$ du bateau qui reste immergé. Réfléchir aux hypothèses nécessaires pour assurer la cohérence entre les deux méthodes. 
+2. _Facultatif : on pourra essayer de la résoudre numériquement par dichotomie en choisissant des ordre de grandeur pour un bateau._
 ````
 _Point utile pour cet exercice_
 * _$\Longrightarrow$ Résultante des actions de pression._
 * _$\Longrightarrow$ Théorème  d'Archimède._
 * _$\Longrightarrow$ Liquide peu compressible._
 
-## Bille au fond d'un évier
+## Ouverture d'un clapet.
+Un clapet est constitué d'une plaque verticale de longueur $L$ (selon l'horizontale) et de hauteur $H$ maintenu en liaison pivot avec un bati à son extrémité supérieure (l'axe de la liaison est horizontal suivant la longueur $L$ de la plaque). Sa masse $m$ est uniformément répartie et elle touche le sol situé  à une distance $L$ en dessous du pivot. Le contact avec le sol est parfait, par contre le pivot ne l'est pas et le moment de la liaison sur son axe de rotation est supposé constant $\Gamma$.
+
+A gauche de la plaque il y a de l'air à une pression $P_0$ et à droite un bassin rempli d'eau sur une hauteur $H_0 \leq H$. L'eau est au repos et supposé peu compressible de masse volumique $\rho$.
+
+A quelle condition sur $\Gamma$, le clapet maintient le bassin rempli avant de s'ouvir à une hauteur d'eau $H_0 = H/2$?
+
+## Bille au fond d'un évier (Plus difficile)
 
 ````{admonition} Exercice 
 :class: attention
