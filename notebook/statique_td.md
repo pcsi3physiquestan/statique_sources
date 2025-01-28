@@ -53,6 +53,8 @@ _Point utile pour cet exercice_
 * _$\Longrightarrow$ Liquide peu compressible._
 
 ## Ouverture d'un clapet.
+````{admonition} Exercice 
+:class: attention
 Un clapet est constitué d'une plaque verticale de longueur $L$ (selon l'horizontale) et de hauteur $H$ maintenu en liaison pivot avec un bati à son extrémité supérieure (l'axe de la liaison est horizontal suivant la longueur $L$ de la plaque). Sa masse $m$ est uniformément répartie et elle touche le sol situé  à une distance $L$ en dessous du pivot. Le contact avec le sol est parfait, par contre le pivot ne l'est pas et le moment de la liaison sur son axe de rotation est supposé constant $\Gamma$.
 
 A gauche de la plaque il y a de l'air à une pression $P_0$ et à droite un bassin rempli d'eau sur une hauteur $H_0 \leq H$. L'eau est au repos et supposé peu compressible de masse volumique $\rho$.
@@ -71,10 +73,15 @@ Une sphère de bois de masse volumique $\rho$ et de rayon R, de masse uniformém
 :align: center
 
 ```
+````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Résultante des actions de pression._
+* _$\Longrightarrow$ Théorème du moment cinétique._
+* _$\Longrightarrow$ Moment d'une action globale._
 
 1. Calculer la force qu'exerce la bille sur le fond du bassin.
-1. Si on baisse le niveau de l'eau dans le bassin, pour quelle hauteur d'eau la sphère va remonter à la surface en supposant qu'elle n'émerge pas encore au décollage? 
-1. Cette configuration est-elle possible avec les données numériques ci-dessous?
+2. Si on baisse le niveau de l'eau dans le bassin, pour quelle hauteur d'eau la sphère va remonter à la surface en supposant qu'elle n'émerge pas encore au décollage? 
+3. Cette configuration est-elle possible avec les données numériques ci-dessous?
 
 
 Données: $\rho = 850 \rm{km.m^{-3}}; \rho_e = 1000 \rm{kg.m^{-3}}; H=0.7 \rm{m}; R =0.2 \rm{m}; r = 0.1 \rm{m}; g = 9.8 \rm{m.s^{-2}}$
