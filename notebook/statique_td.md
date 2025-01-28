@@ -60,6 +60,7 @@ Un clapet est constitué d'une plaque verticale de longueur $L$ (selon l'horizon
 A gauche de la plaque il y a de l'air à une pression $P_0$ et à droite un bassin rempli d'eau sur une hauteur $H_0 \leq H$. L'eau est au repos et supposé peu compressible de masse volumique $\rho$.
 
 A quelle condition sur $\Gamma$, le clapet maintient le bassin rempli avant de s'ouvir à une hauteur d'eau $H_0 = H/2$?
+````
 
 ## Bille au fond d'un évier (Plus difficile)
 
@@ -71,9 +72,9 @@ Une sphère de bois de masse volumique $\rho$ et de rayon R, de masse uniformém
 ```{figure} ./images/Thermodynamique_TD2_EX3_1.jpg
 :name: fig_269
 :align: center
-
 ```
 ````
+
 _Point utile pour cet exercice_
 * _$\Longrightarrow$ Résultante des actions de pression._
 * _$\Longrightarrow$ Théorème du moment cinétique._
