@@ -61,6 +61,10 @@ A gauche de la plaque il y a de l'air à une pression $P_0$ et à droite un bass
 
 A quelle condition sur $\Gamma$, le clapet maintient le bassin rempli avant de s'ouvir à une hauteur d'eau $H_0 = H/2$?
 ````
+_Point utile pour cet exercice_
+* _$\Longrightarrow$ Résultante des actions de pression._
+* _$\Longrightarrow$ Théorème du moment cinétique._
+* _$\Longrightarrow$ Moment d'une action globale._
 
 ## Bille au fond d'un évier (Plus difficile)
 
@@ -73,21 +77,12 @@ Une sphère de bois de masse volumique $\rho$ et de rayon R, de masse uniformém
 :name: fig_269
 :align: center
 ```
-````
-
-_Point utile pour cet exercice_
-* _$\Longrightarrow$ Résultante des actions de pression._
-* _$\Longrightarrow$ Théorème du moment cinétique._
-* _$\Longrightarrow$ Moment d'une action globale._
-
 1. Calculer la force qu'exerce la bille sur le fond du bassin.
 2. Si on baisse le niveau de l'eau dans le bassin, pour quelle hauteur d'eau la sphère va remonter à la surface en supposant qu'elle n'émerge pas encore au décollage? 
 3. Cette configuration est-elle possible avec les données numériques ci-dessous?
-
-
 Données: $\rho = 850 \rm{km.m^{-3}}; \rho_e = 1000 \rm{kg.m^{-3}}; H=0.7 \rm{m}; R =0.2 \rm{m}; r = 0.1 \rm{m}; g = 9.8 \rm{m.s^{-2}}$
-
 ````
+
 _Point utile pour cet exercice_
 * _$\Longrightarrow$ Résultante des actions de pression._
 * _$\Longrightarrow$ Liquide peu compressible._
